@@ -13,6 +13,8 @@ Welcome to the GPT-3 Website, an informative platform dedicated to exploring the
 - **React**
 - **Vanilla CSS with BEM**
 
+**Note:** The site may take some time to load, so please wait up to 1 minute.
+
 **Note:** GPT3 is deployed on render.Live demo of GPT3 [here](https://gpt3-dhyan.onrender.com).
 
 
